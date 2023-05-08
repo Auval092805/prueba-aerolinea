@@ -1,0 +1,57 @@
+{
+  "city": [],
+  "customer": [
+    {
+      "createdAt": "2019-07-16",
+      "cc": "142643",
+      "nombres": "swihgduh",
+      "apellidos": "suyjh hg",
+      "email": "pape@fgnd.com",
+      "telefono": "34510234",
+      "fechanac": "2023-05-08",
+      "id": 1
+    },
+    {
+      "createdAt": "2023-05-01",
+      "cc": "77777",
+      "nombres": "Jose",
+      "apellidos": "Perez",
+      "email": "jp@gg.com",
+      "telefono": "6666",
+      "fechanac": "2023-05-20",
+      "id": 2
+    },
+    {
+      "createdAt": "2023-05-06",
+      "cc": "1256",
+      "nombres": "Carlos",
+      "apellidos": "Marx",
+      "email": "cm@gmail.com",
+      "telefono": "54566",
+      "fechanac": "2003-05-08",
+      "id": 3
+    },
+    {
+      "createdAt": "2023-05-03",
+      "cc": "8888",
+      "nombres": "iklk",
+      "apellidos": "jkljkl",
+      "email": "jkljkl@ff.com",
+      "telefono": "jklkl",
+      "fechanac": "2023-05-18",
+      "id": 7
+    },
+    {
+      "createdAt": "2023-05-02",
+      "cc": "142643",
+      "nombres": "Audrey Valeria",
+      "apellidos": "Cuello Parra",
+      "email": "audreycuello0928@hotmail.com",
+      "telefono": "3224620769",
+      "fechanac": "2023-05-09",
+      "CiudadOrg": "bogota",
+      "paisOrg": "colombia",
+      "id": 8
+    }
+  ]
+}
